@@ -1,2 +1,7 @@
-# Survivor-s-Elegy
-Survivor's Elegy is a Minecraft Java datapack which adds a multitude of features to enhance the vanilla gameplay.
+My own fork of Survivor's Elegy
+
+For Minecraft Java 1.20.1
+
+The only changes I have made are remonvi gsome features I didn't need in my world, there are no unique features added, nor modifications to existing ones, so I recommend checking out the original:
+
+https://github.com/CiscuLog/Survivor-s-Elegy

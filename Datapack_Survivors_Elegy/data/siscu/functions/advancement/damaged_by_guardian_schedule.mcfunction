@@ -1,1 +1,0 @@
-advancement revoke @a only siscu:entities/damaged_by_guardian

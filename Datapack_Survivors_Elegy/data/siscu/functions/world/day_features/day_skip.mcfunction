@@ -1,1 +1,0 @@
-execute if predicate siscu:world/check_not_morning_1 run time add 1d
