@@ -3,3 +3,7 @@ normal:
 	cd Texturepack_Survivors_Elegy/; zip -r SurvivorsElegyRC67Resourcepack.zip assets/ pack.mcmeta pack.png
 	mv Datapack_Survivors_Elegy/SurvivorsElegyRC67Datapack.zip .
 	mv Texturepack_Survivors_Elegy/SurvivorsElegyRC67Resourcepack.zip .
+
+clean:
+	rm SurvivorsElegyRC67Datapack.zip
+	rm SurvivorsElegyRC67Resourcepack.zip
